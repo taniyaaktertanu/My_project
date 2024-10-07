@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.News{
+    display: flex;
+    gap: 50px;
+    margin-top: 60px;
+}
+.News_1{
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 30px;
+    width: 600px;
+    text-align: center;
+    background-color: rgb(9, 152, 181);
+}
+.boxes h1{
+    margin-top: 50px;
+    margin-left: 20px;
+   margin-bottom:10px;
+}
+.boxes div{
+    background:white;
+    border: 1px solid rgb(227, 234, 234);
+    height: 30px;
+    font-size: 20px;
+    color: blue;
+    width: 370px;
+    margin-left: 20px;
+ }
+ .boxes_2{
+    margin-left: 500px;
+    margin-top: -480px ;
+ }
+  .boxes_2 h1{
+    /* margin-top: 50px; */
+    margin-left: 20px;
+   margin-bottom:10px;
+}
+.boxes_2 div{
+    background:white;
+    border: 1px solid rgb(227, 234, 234);
+    height: 30px;
+    font-size: 20px;
+    color: blue;
+    width: 370px;
+    margin-left: 20px;
+ }
+ .news{
+    width: 200px;
+    color: white;
+    margin-top: -500px;
+   background-color: blue;
+    margin-left: 930px;
+ }
+ .latest div{
+    margin-top: 20px;
+   font-size: 18px;
+  background-color: rgb(249, 245, 245);
+  border: 1px solid rgb(162, 161, 161);
+  width: 250px;
+  margin-left: 920px;
+ }
+ .surgery_2{
+    margin-left: 920px;
+ }
+ .server_4{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 50px;
+} 
+.care_10{
+    font-size: 20px;
+}
+.care_10 i{
+   font-size: 13px;
+   
+}
+.care_11 h2{
+    font-size: 35px;
+   color: rgb(4, 162, 159);
+}
+.care_11 i{
+   gap: 20px;
+   font-size: 15px;
+}
+.care_12 h2{
+    font-size: 35px;
+    color: rgb(4, 162, 159);
+}
+.care_12 h6{
+    color: rgb(55, 54, 54);
+    border: 1px solid rgb(85, 84, 84);
+}
+.care_12 h5{
+    margin-top: 10px;
+    color: rgb(55, 54, 54);
+    height: 50px;
+    width: 300px;
+    border: 1px solid rgb(92, 90, 90);
+}
+.care_12 button{
+    margin-top: 10px;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+  background-color: rgb(11, 209, 220);
+}
